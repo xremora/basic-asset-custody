@@ -49,7 +49,7 @@ TODO
 ```
 
 ### Methods / functions
-
+- TODO
 - `send_payment(time, amount, to)` : Alice calls by specifying the parameters
 - `accept_payment(amount)`: Bob most clim full amount at once, can't accept before the `time`
 - `increase_payment_time()`: Alice can increase the payment time
