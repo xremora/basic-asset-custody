@@ -45,12 +45,7 @@ cargo build --target wasm32-unknown-unknown --release
 - ref: <https://docs.near.org/concepts/storage/data-storage#rust-collection-types>
 
 ```
-payment  {
-    amount:
-    from: 
-    to: 
-    time: 
-}
+TODO
 ```
 
 ### Methods / functions
